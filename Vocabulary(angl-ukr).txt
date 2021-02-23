@@ -1,0 +1,6 @@
+I	я
+cat	кіт
+dog	собака
+house	дім
+lemon	лимон
+tree	дерево
